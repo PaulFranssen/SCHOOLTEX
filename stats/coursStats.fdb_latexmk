@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1620220078 "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" "coursStats.pdf" "coursStats" 1620222605
+["pdflatex"] 1620224600 "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" "coursStats.pdf" "coursStats" 1620224602
   "C:/Users/Paul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1619806949 9524100 1c8f026c0d8e69d36a3aad71cf24df4e ""
   "C:/Users/Paul/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1620054510 125712 9ed4c80183364e9422c4879e569f2976 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -80,10 +80,10 @@
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/pifont.sty" 1585926771 2350 62e73848f29fd8cd37fb7974c7cf2221 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upsy.fd" 1585257378 153 2da0acd77cba348f34823f44cabf0058 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upzd.fd" 1585257378 153 b2a94082cb802f90d3daf6dd0c7188a0 ""
-  "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" 1620220075 7936 61927762d6873cb047e686cb8e521dd6 ""
-  "coursStats.aux" 1620220081 1309 dd5a4fd4c93fa98bdff0cdd05c00ca32 "pdflatex"
-  "coursStats.tex" 1620220075 7936 61927762d6873cb047e686cb8e521dd6 ""
+  "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" 1620224598 7942 31e65f0dd029a048090f32b0823fe4cb ""
+  "coursStats.aux" 1620224602 1309 dd5a4fd4c93fa98bdff0cdd05c00ca32 "pdflatex"
+  "coursStats.tex" 1620224598 7942 31e65f0dd029a048090f32b0823fe4cb ""
   (generated)
+  "coursStats.log"
   "coursStats.aux"
   "coursStats.pdf"
-  "coursStats.log"
