@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.30)  5 MAY 2021 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.30)  9 MAY 2021 20:12
 entering extended mode
 **c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex
 (c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex
@@ -416,19 +416,41 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 8.27998pt on input line 71.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.43999pt on input line 71.
- [3] [4] (coursStats.aux) ) 
+ [3] [4]
+<img/quartile.PNG, id=21, 103.88812pt x 225.09094pt>
+File: img/quartile.PNG Graphic file (type png)
+<use img/quartile.PNG>
+Package pdftex.def Info: img/quartile.PNG  used on input line 119.
+(pdftex.def)             Requested size: 108.00621pt x 234.00238pt.
+<img/mediane.PNG, id=23, 406.51875pt x 170.13562pt>
+File: img/mediane.PNG Graphic file (type png)
+<use img/mediane.PNG>
+Package pdftex.def Info: img/mediane.PNG  used on input line 126.
+(pdftex.def)             Requested size: 350.99762pt x 146.90308pt.
+<img/exercice1-fromage.PNG, id=24, 483.30562pt x 235.63031pt>
+File: img/exercice1-fromage.PNG Graphic file (type png)
+<use img/exercice1-fromage.PNG>
+Package pdftex.def Info: img/exercice1-fromage.PNG  used on input line 133.
+(pdftex.def)             Requested size: 390.0pt x 190.1476pt.
+ [5 <./img/quartile.PNG> <./img/mediane.PNG>]
+<img/exercice2-ordinateur.PNG, id=30, 483.30562pt x 391.4625pt>
+File: img/exercice2-ordinateur.PNG Graphic file (type png)
+<use img/exercice2-ordinateur.PNG>
+Package pdftex.def Info: img/exercice2-ordinateur.PNG  used on input line 140.
+(pdftex.def)             Requested size: 390.0pt x 315.90018pt.
+ [6 <./img/exercice1-fromage.PNG> <./img/exercice2-ordinateur.PNG>] (coursStats.aux) ) 
 Here is how much of TeX's memory you used:
- 4959 strings out of 479321
- 69649 string characters out of 2857060
+ 4986 strings out of 479321
+ 70231 string characters out of 2857060
  374724 words of memory out of 3000000
- 22316 multiletter control sequences out of 15000+600000
+ 22337 multiletter control sequences out of 15000+600000
  477137 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,74p,2395b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-mex.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-mlit.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-ms.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putb8a.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putr8a.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/utopia/putri8a.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on coursStats.pdf (4 pages, 64720 bytes).
+Output written on coursStats.pdf (6 pages, 191572 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
