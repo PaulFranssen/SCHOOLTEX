@@ -1,0 +1,75 @@
+\documentclass[utf8, a4paper, 12 pt]{article}
+\usepackage{graphicx, float}
+\usepackage{fourier}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem, pifont}
+\usepackage{amsmath, amsfonts,amssymb}   
+\usepackage{tikz}
+\usepackage{array}
+\usepackage{lscape}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+\title{\LARGE \textbf{MESURES ET CALCULS DE SURFACES}}
+\author{MATH\'EMATHIQUES 6P}
+\date{\today}
+\setlist[itemize, 1]{label ={\ding{248}}, itemsep = \baselineskip}
+
+
+
+\begin{document}
+
+    \large
+    \everymath{\displaystyle} 
+    \maketitle
+    \setcounter{page}{2}
+
+    \section*{Mesure et calcule les surfaces suivantes :}
+
+        Réponses au dixième de $cm^2$ près
+
+        \vspace{1\baselineskip}
+
+        \subsection*{Surface 1}
+
+            \vspace{1\baselineskip}
+            
+            \begin{tikzpicture}
+                \draw circle(3.1);
+            \end{tikzpicture}
+            \vspace{1\baselineskip}
+
+        \subsection*{Surface 2}
+            \vspace{1\baselineskip}
+            \begin{tikzpicture}
+                \draw (0,0) rectangle (5,7);
+            \end{tikzpicture}
+            \vspace{1\baselineskip}
+
+        \subsection*{Surface 3}
+            \vspace{1\baselineskip}
+            \begin{tikzpicture}
+                \draw (0,0) -- (6,0) --++ (120:5) -- cycle; 
+            \end{tikzpicture}
+            \vspace{1\baselineskip}
+
+        \subsection*{Surface 4}
+            \vspace{1\baselineskip}
+            \begin{tikzpicture}
+                \draw (0,0) -- (5,0) --++ (90:4) --++(180:2) -- cycle; 
+            \end{tikzpicture}
+            \vspace{1\baselineskip}
+
+        \subsection*{Surface 5}
+            \vspace{1\baselineskip}
+            \begin{tikzpicture}
+                \draw (0,0) -- (8,0) --++ (90:2)  --++ (140:3) --++(180:3) -- cycle; 
+            \end{tikzpicture}
+
+        \subsection*{Surface 6}
+            \vspace{1\baselineskip}
+            \begin{tikzpicture}
+                \draw (0,0) -- (2,2) arc(180:0:2) -- (8,0) -- cycle; 
+            \end{tikzpicture}
+
+\end{document}

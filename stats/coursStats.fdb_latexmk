@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1620583938 "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" "coursStats.pdf" "coursStats" 1621161967
+["pdflatex"] 1631477144 "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" "coursStats.pdf" "coursStats" 1631477161
   "C:/Users/Paul/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1619806949 9524100 1c8f026c0d8e69d36a3aad71cf24df4e ""
-  "C:/Users/Paul/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1620515245 125712 9ed4c80183364e9422c4879e569f2976 ""
+  "C:/Users/Paul/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1621804828 125712 9ed4c80183364e9422c4879e569f2976 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136772254 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136772254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -80,14 +80,14 @@
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/pifont.sty" 1585926771 2350 62e73848f29fd8cd37fb7974c7cf2221 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upsy.fd" 1585257378 153 2da0acd77cba348f34823f44cabf0058 ""
   "C:/Users/Paul/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upzd.fd" 1585257378 153 b2a94082cb802f90d3daf6dd0c7188a0 ""
-  "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" 1620583937 9046 b5bda04f045a81e67a435ed87cf52cb9 ""
-  "coursStats.aux" 1620583940 1816 beb4cce158d62b62775df5832fe5a335 "pdflatex"
-  "coursStats.tex" 1620583937 9046 b5bda04f045a81e67a435ed87cf52cb9 ""
+  "c:/Users/Paul/SCHOOLTEX/stats/coursStats.tex" 1631477140 9091 bdaa2730dee1ac20a85783673b0bc032 ""
+  "coursStats.aux" 1631477149 1816 beb4cce158d62b62775df5832fe5a335 "pdflatex"
+  "coursStats.tex" 1631477140 9091 bdaa2730dee1ac20a85783673b0bc032 ""
   "img/exercice1-fromage.PNG" 1620582375 53821 77629f6389e44706fbc81cf0628ed976 ""
   "img/exercice2-ordinateur.PNG" 1620582381 77260 4957c15783ccba27c767a35825d0ff47 ""
   "img/mediane.PNG" 1620582992 13024 24874676ab6bbabba24e791ff88479aa ""
   "img/quartile.PNG" 1620211102 3525 7a9d435efbb91cea7a1d4865c1130633 ""
   (generated)
-  "coursStats.pdf"
   "coursStats.log"
+  "coursStats.pdf"
   "coursStats.aux"
